@@ -1,3 +1,5 @@
+**Total Time Taken to Complete this Project: 15 hours**
+
 **Project: Food Product Recommendation System**
 
 This project implements a food product recommendation system using React. Users can browse through a list of food products, search for specific products by name or barcode, filter products by category, and sort the product list by name or nutrition grade.
@@ -64,11 +66,6 @@ The CSS styles are designed to be responsive and work well on both mobile and de
 ![image](https://github.com/user-attachments/assets/21421209-9cc1-466b-a412-298ce45e342d)
 ![image](https://github.com/user-attachments/assets/e23bc4a0-ce72-4616-83bb-97c5d216fd92)
 ![image](https://github.com/user-attachments/assets/3ab37d8f-f936-4606-b299-4f4cf8f8e283)
-
-
-
-
-
 
 
 
