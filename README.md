@@ -55,3 +55,22 @@ The handleLoadMore function increases the visibleProducts value, loading more pr
 **Responsiveness**
 
 The CSS styles are designed to be responsive and work well on both mobile and desktop screens
+
+
+**Some Screenshots:**
+![image](https://github.com/user-attachments/assets/87817dec-8d8f-485a-aefa-61983414e774)
+![image](https://github.com/user-attachments/assets/1e02cd36-e192-445f-b65e-f36ba035c3ac)
+![image](https://github.com/user-attachments/assets/d79f6679-de53-4dd0-96ae-53ece9ac17f1)
+![image](https://github.com/user-attachments/assets/21421209-9cc1-466b-a412-298ce45e342d)
+![image](https://github.com/user-attachments/assets/e23bc4a0-ce72-4616-83bb-97c5d216fd92)
+![image](https://github.com/user-attachments/assets/3ab37d8f-f936-4606-b299-4f4cf8f8e283)
+
+
+
+
+
+
+
+
+
+
